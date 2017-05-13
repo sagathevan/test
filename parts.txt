@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sub="http://xmlns.nintendo.com/OM/RD/SubContractorRepairOrder">
+<soapenv:Header />
+<soapenv:Body>
+<sub:PartsUsage>
+<sub:SessionTicket>RNMCy/4JBLG/Ur2W7Uw5OMEkWoiiWMaaaGCJ+3mdI/LTe0jcDTKYfw7vt/FasFey+w+p7SLX+y4LZnGT8xzJpU1jbzimVzbCDhL/7t8f1Ar1Pq4u4drBolFiF0oTuHY6KbNEggFs++LXolQSYi/uIJ8+gA3EKtFMakUuY19GPElK1dUakEsKBo5pcTKWaMSzd1/TGdnxQFIFUI6rJzTkglf5OB7d5Oxpb6qCHcjBMmUTgsfk656sjskeWlwy3YznEPGl/UKp3MoyG4IThH5ch6Jrp/+wqxVoImfnNlYHY7jNcSTRSOVCTnfF+vgnmhETep3Um6OLZ0bhj62IrYMFMA==</sub:SessionTicket>
+<sub:Item>
+<sub:AssemblyItem>77999</sub:AssemblyItem>
+<sub:AssemblyItemSerialNum>SW912212379</sub:AssemblyItemSerialNum>
+<sub:RONumber>11511</sub:RONumber>
+</sub:Item>
+</sub:PartsUsage>
+</soapenv:Body>
+</soapenv:Envelope>
