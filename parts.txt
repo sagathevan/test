@@ -8,7 +8,10 @@
 <sub:AssemblyItem>77999</sub:AssemblyItem>
 <sub:AssemblyItemSerialNum>SW912212379</sub:AssemblyItemSerialNum>
 <sub:RONumber>11511</sub:RONumber>
+<sub:RONumber1>115111</sub:RONumber1>
+
 </sub:Item>
 </sub:PartsUsage>
 </soapenv:Body>
+
 </soapenv:Envelope>
